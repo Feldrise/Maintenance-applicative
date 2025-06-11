@@ -1,7 +1,5 @@
 ## 🧪 TP 1 – Lecture et compréhension du contexte applicatif
 
-### 🕒 Durée estimée : 1h30
-
 ### 🎯 Objectifs pédagogiques
 
 - Lire et comprendre une fiche projet et ses enjeux métiers

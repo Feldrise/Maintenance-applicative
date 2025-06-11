@@ -1,9 +1,5 @@
 ## 🧪 TP 2 – Structuration des demandes de maintenance
 
-### 🕒 Durée estimée : 2h
-
----
-
 ### 🎯 Objectifs pédagogiques
 
 - Prioriser les demandes de maintenance selon leur criticité
